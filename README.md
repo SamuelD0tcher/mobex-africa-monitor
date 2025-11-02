@@ -1,1 +1,2 @@
-web scraper (target="MOBEX Africa")
+customizable web scraper 
+(current target="MOBEX Africa")
